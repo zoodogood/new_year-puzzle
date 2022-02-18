@@ -1,2 +1,2 @@
 # new_year-puzzle
-2020
+https://zoodogood.github.io/new_year-puzzle/
